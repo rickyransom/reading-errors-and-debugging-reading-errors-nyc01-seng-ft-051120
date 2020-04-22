@@ -1,3 +1,1 @@
-greeting
-greeting = "Hello world"
-puts greeting
+puts Math.division 4/0
