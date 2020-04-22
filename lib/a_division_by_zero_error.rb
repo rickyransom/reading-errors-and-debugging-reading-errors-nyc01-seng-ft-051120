@@ -1,1 +1,1 @@
-puts Math.division 4/0
+Math.division 4/0
