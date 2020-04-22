@@ -1,3 +1,4 @@
 
-2.times do
+2.timesdo
   puts "hi"
+end
